@@ -40,7 +40,7 @@ def findMaxSubSquare(M):
         print("")
 
 
-# Driver Program
+# a simple test of the program
 M1 = [[0, 1, 1, 0, 1],
       [1, 1, 0, 1, 0],
       [0, 1, 1, 1, 0],
